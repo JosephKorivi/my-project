@@ -1,4 +1,5 @@
 
 npm create-next-app
 
-npm install node-modules
+
+my project is sending to the git.
